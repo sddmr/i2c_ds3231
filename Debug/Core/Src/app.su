@@ -1,0 +1,2 @@
+../Core/Src/app.cpp:7:6:void App_Init()	8	static
+../Core/Src/app.cpp:18:6:void App_Run()	4	static
